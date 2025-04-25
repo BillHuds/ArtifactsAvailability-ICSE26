@@ -11,7 +11,7 @@ The data provided here were collected and analyzed through two literature studie
   - [Full Article - XXXXXXXXX]() - study includes the collection of vulnerabilities indicated in the study - unavailable due to anonymization
   - [Vulnerability Descriptions (Ad-hoc and Structured Review)](https://github.com/BillHuds/ArtifactsAvailability-SBES25/blob/main/Vulnerabilities%20Descriptions.pdf)
   - [License](https://github.com/BillHuds/ArtifactsAvailability-SBES25/blob/main/LICENSE)
-  - [Vulnerability Catalog for IoT Software Systems] -  unavailable due to anonymization
+  - [Vulnerability Catalog for IoT Software Systems]() -  unavailable due to anonymization
 
 ## Ethical and Legal Statements
 This dataset was collected in compliance with applicable ethical and legal guidelines. The following considerations have been observed:
