@@ -10,9 +10,9 @@ The data provided here were collected and analyzed through two literature studie
 - **Available Artifact Set:**
   - [Full Article - XXXXXXXXX]() - study includes the collection of vulnerabilities indicated in the study - unavailable due to anonymization
   - [Structured Review Technical Report]()
-  - [Vulnerability Descriptions (Ad-hoc and Structured Review)]()
-  - [License]()
-  - [Vulnerability Catalog for IoT Software Systems]()
+  - [Vulnerability Descriptions (Ad-hoc and Structured Review)](https://github.com/BillHuds/ArtifactsAvailability-SBES25/blob/main/Vulnerabilities%20Descriptions.pdf)
+  - [License](https://github.com/BillHuds/ArtifactsAvailability-SBES25/blob/main/LICENSE)
+  - [Vulnerability Catalog for IoT Software Systems] -  unavailable due to anonymization
 
 ## Ethical and Legal Statements
 This dataset was collected in compliance with applicable ethical and legal guidelines. The following considerations have been observed:
