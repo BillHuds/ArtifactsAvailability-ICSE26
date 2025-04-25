@@ -8,7 +8,7 @@ The data provided here were collected and analyzed through two literature studie
 - **Collection Period:** Data collection occurred between [June/2022] and [December/2024].
 - **Data Collection Responsibility:** The data collection and processing were conducted by the authors themselves: unavailable due to anonymization.
 - **Available Artifact Set:**
-  - [Full Article - XXXXXXXXX]) - study includes the collection of vulnerabilities indicated in the study - unavailable due to anonymization
+  - [Full Article - XXXXXXXXX]() - study includes the collection of vulnerabilities indicated in the study - unavailable due to anonymization
   - [Structured Review Technical Report]()
   - [Vulnerability Descriptions (Ad-hoc and Structured Review)]()
   - [License]()
