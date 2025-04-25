@@ -10,6 +10,7 @@ The data provided here were collected and analyzed through two literature studie
 - **Available Artifact Set:**
   - [Full Article - XXXXXXXXX]() - study includes the collection of vulnerabilities indicated in the study - unavailable due to anonymization
   - [Vulnerability Descriptions (Ad-hoc and Structured Review)](https://github.com/BillHuds/ArtifactsAvailability-SBES25/blob/main/Vulnerabilities%20Descriptions.pdf)
+  - [Structurecd Review Technical Report](https://github.com/BillHuds/ArtifactsAvailability-SBES25/blob/main/Structured%20Review%20Technical%20Report.pdf) - Data update
   - [License](https://github.com/BillHuds/ArtifactsAvailability-SBES25/blob/main/LICENSE)
   - [Vulnerability Catalog for IoT Software Systems]() -  unavailable due to anonymization
 
